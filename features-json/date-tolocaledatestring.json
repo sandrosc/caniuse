@@ -377,7 +377,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"u",
@@ -680,8 +681,8 @@
     "2":"Does not support all locales correctly",
     "3":"Does not support the `timeZone` option "
   },
-  "usage_perc_y":95.88,
-  "usage_perc_a":0.91,
+  "usage_perc_y":95.55,
+  "usage_perc_a":1.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

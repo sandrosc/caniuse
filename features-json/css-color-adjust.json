@@ -387,7 +387,8 @@
       "138":"y x",
       "139":"y x",
       "140":"y x",
-      "141":"y x"
+      "141":"y x",
+      "142":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -688,7 +689,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":44.89,
+  "usage_perc_y":48.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

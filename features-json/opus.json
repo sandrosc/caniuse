@@ -381,7 +381,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -685,8 +686,8 @@
     "3":"Supported in a WebM container (all bitrates).",
     "4":"Partial support refers to requiring macOS 15.4 Sequoia or later."
   },
-  "usage_perc_y":89.5,
-  "usage_perc_a":6.67,
+  "usage_perc_y":89.86,
+  "usage_perc_a":6.02,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"",

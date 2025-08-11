@@ -377,7 +377,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"u",
@@ -678,8 +679,8 @@
   "notes_by_num":{
     "1":"Not supported in IE11 before Windows 10"
   },
-  "usage_perc_y":43.62,
-  "usage_perc_a":0.4,
+  "usage_perc_y":47.37,
+  "usage_perc_a":0.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"pdf reader",

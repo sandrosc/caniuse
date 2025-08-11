@@ -387,7 +387,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -691,8 +692,8 @@
     "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag",
     "4":"Not supported in Private Browsing mode ([see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1320796))"
   },
-  "usage_perc_y":95.25,
-  "usage_perc_a":0.73,
+  "usage_perc_y":94.8,
+  "usage_perc_a":0.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

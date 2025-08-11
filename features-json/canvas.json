@@ -419,7 +419,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -721,7 +722,7 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":96.71,
+  "usage_perc_y":96.61,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

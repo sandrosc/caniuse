@@ -393,7 +393,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -694,8 +695,8 @@
   "notes_by_num":{
     "1":"Video-only support"
   },
-  "usage_perc_y":78.61,
-  "usage_perc_a":14.25,
+  "usage_perc_y":78.46,
+  "usage_perc_a":14.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"VideoDecoder,AudioDecoder,VideoEncoder,AudioEncoder,EncodedAudioChunk,EncodedVideoChunk,AudioData,VideoFrame,VideoColorSpace,ImageDecoder,ImageTrackList,ImageTrack",

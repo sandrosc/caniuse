@@ -402,7 +402,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -708,8 +709,8 @@
     "5":"Do not appear to support sticky table headers",
     "6":"Supported on `th` elements, but not `thead` or `tr` - See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16765952/)"
   },
-  "usage_perc_y":95.38,
-  "usage_perc_a":0.68,
+  "usage_perc_y":95.08,
+  "usage_perc_a":0.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

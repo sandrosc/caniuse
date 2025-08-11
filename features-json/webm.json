@@ -381,7 +381,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -689,8 +690,8 @@
     "7":"Safari 14.1 \u2013 15.6 has full support of WebM, but requires macOS 11.3 Big Sur or later.",
     "8":"Does not support alpha transparency"
   },
-  "usage_perc_y":93.79,
-  "usage_perc_a":2.24,
+  "usage_perc_y":93.72,
+  "usage_perc_a":1.98,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

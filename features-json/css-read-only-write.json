@@ -393,7 +393,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"u",
@@ -694,7 +695,7 @@
   "notes_by_num":{
     "1":"Supports selector only for input and textarea fields, but not for contenteditable"
   },
-  "usage_perc_y":96.26,
+  "usage_perc_y":95.96,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

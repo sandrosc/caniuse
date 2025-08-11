@@ -377,7 +377,8 @@
       "138":"a #1",
       "139":"a #1",
       "140":"a #1",
-      "141":"a #1"
+      "141":"a #1",
+      "142":"a #1"
     },
     "safari":{
       "3.1":"y",
@@ -678,8 +679,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":2.49,
-  "usage_perc_a":26.37,
+  "usage_perc_y":2.51,
+  "usage_perc_a":30.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

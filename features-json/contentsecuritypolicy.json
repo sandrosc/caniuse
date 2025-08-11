@@ -393,7 +393,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -695,8 +696,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":96.28,
-  "usage_perc_a":0.41,
+  "usage_perc_y":95.97,
+  "usage_perc_a":0.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

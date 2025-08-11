@@ -377,7 +377,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -678,7 +679,7 @@
   "notes_by_num":{
     "1":"Partial support in older Firefox refers to being limited to certain operating systems."
   },
-  "usage_perc_y":96.67,
+  "usage_perc_y":96.56,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"audio",

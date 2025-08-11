@@ -385,7 +385,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -686,8 +687,8 @@
   "notes_by_num":{
     "1":"Not supported on Windows 7."
   },
-  "usage_perc_y":93.78,
-  "usage_perc_a":0.48,
+  "usage_perc_y":93.52,
+  "usage_perc_a":0.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"lockorientation,unlockorientation",

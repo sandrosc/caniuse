@@ -393,7 +393,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -695,8 +696,8 @@
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964).",
     "2":"Only supported on Android & Mac platforms"
   },
-  "usage_perc_y":96.12,
-  "usage_perc_a":0.41,
+  "usage_perc_y":95.99,
+  "usage_perc_a":0.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

@@ -385,7 +385,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -692,8 +693,8 @@
     "6":"Partial support refers to TouchID not being supported.",
     "7":"Does not support direct attestations"
   },
-  "usage_perc_y":93.25,
-  "usage_perc_a":2.33,
+  "usage_perc_y":92.86,
+  "usage_perc_a":2.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"fido,webauthn,webauthm",

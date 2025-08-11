@@ -382,7 +382,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"u",
@@ -684,7 +685,7 @@
     "1":"Readonly inputs of type `datetime-local`, `date`, `month`, and `week` can still be edited by pressing the Up or Down arrow keys on the keyboard while the input is focused.",
     "2":"Text cannot be selected directly, but is possible by first selecting any text around the field. "
   },
-  "usage_perc_y":96.79,
+  "usage_perc_y":96.68,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

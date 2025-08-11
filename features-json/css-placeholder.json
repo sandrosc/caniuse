@@ -393,7 +393,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -694,8 +695,8 @@
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":95.93,
-  "usage_perc_a":0.3,
+  "usage_perc_y":95.66,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

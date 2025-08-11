@@ -381,7 +381,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -685,7 +686,7 @@
     "3":"Partial refers to supporting all new features except the `isSafeInteger` method.",
     "4":"Partial refers to only supporting the `isFinite` and `isNaN` methods."
   },
-  "usage_perc_y":96.22,
+  "usage_perc_y":95.91,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6",

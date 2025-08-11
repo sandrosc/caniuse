@@ -419,7 +419,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"y",
@@ -723,8 +724,8 @@
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
     "4":"Not supported in Chromium browsers on Android 6 or older."
   },
-  "usage_perc_y":93.37,
-  "usage_perc_a":0.47,
+  "usage_perc_y":93.08,
+  "usage_perc_a":0.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

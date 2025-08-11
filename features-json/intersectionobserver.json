@@ -388,7 +388,8 @@
       "138":"y #3",
       "139":"y #3",
       "140":"y #3",
-      "141":"y #3"
+      "141":"y #3",
+      "142":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -691,8 +692,8 @@
     "2":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
     "3":"IntersectionObserver does not trigger its callback in a Chrome background tab"
   },
-  "usage_perc_y":95.75,
-  "usage_perc_a":0.07,
+  "usage_perc_y":95.4,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

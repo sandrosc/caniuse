@@ -387,7 +387,8 @@
       "138":"a",
       "139":"a",
       "140":"a",
-      "141":"a"
+      "141":"a",
+      "142":"a"
     },
     "safari":{
       "3.1":"p",
@@ -688,8 +689,8 @@
   "notes_by_num":{
     "1":"IE9+ supports [properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":2.26,
-  "usage_perc_a":94.45,
+  "usage_perc_y":2.36,
+  "usage_perc_a":94.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

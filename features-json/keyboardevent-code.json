@@ -385,7 +385,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -686,7 +687,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome & Opera through the \"experimental Web Platform features\" flag"
   },
-  "usage_perc_y":43.56,
+  "usage_perc_y":47.37,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

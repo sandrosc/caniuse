@@ -377,7 +377,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -678,8 +679,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":46.48,
-  "usage_perc_a":50.23,
+  "usage_perc_y":50.63,
+  "usage_perc_a":45.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

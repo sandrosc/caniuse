@@ -385,7 +385,8 @@
       "138":"y #5",
       "139":"y #5",
       "140":"y #5",
-      "141":"y #5"
+      "141":"y #5",
+      "142":"y #5"
     },
     "safari":{
       "3.1":"n",
@@ -691,8 +692,8 @@
     "5":"Not enabled on Linux by default.",
     "6":"Only enabled by default on Windows"
   },
-  "usage_perc_y":72.48,
-  "usage_perc_a":0,
+  "usage_perc_y":69.21,
+  "usage_perc_a":0.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -377,7 +377,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -678,7 +679,7 @@
   "notes_by_num":{
     "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only."
   },
-  "usage_perc_y":96.13,
+  "usage_perc_y":95.87,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

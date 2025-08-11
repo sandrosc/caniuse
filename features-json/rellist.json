@@ -382,7 +382,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -683,8 +684,8 @@
   "notes_by_num":{
     "1":"Support for relList on link but not anchor elements"
   },
-  "usage_perc_y":95.98,
-  "usage_perc_a":0.12,
+  "usage_perc_y":95.67,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -395,7 +395,8 @@
       "138":"a #2",
       "139":"a #2",
       "140":"a #2",
-      "141":"a #2"
+      "141":"a #2",
+      "142":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -698,7 +699,7 @@
     "2":"Partial support refers to only supporting the `initial-letter` property (not `initial-letter-align` or `initial-letter-wrap`)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":91.07,
+  "usage_perc_a":90.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap,initial letters,letters",

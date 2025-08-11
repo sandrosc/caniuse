@@ -394,7 +394,8 @@
       "138":"y #3 #4",
       "139":"y #3 #4",
       "140":"y #3 #4",
-      "141":"y #3 #4"
+      "141":"y #3 #4",
+      "142":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -698,7 +699,7 @@
     "3":"Requires the served mime-type to be `image/svg+xml`.",
     "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":77.84,
+  "usage_perc_y":77.62,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",

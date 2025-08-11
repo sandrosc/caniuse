@@ -387,7 +387,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"a #2",
@@ -689,7 +690,7 @@
     "1":"Partial support refers to requiring the second parameter to be included.",
     "2":"Partial support refers to not supporting getComputedStyle on pseudo-elements."
   },
-  "usage_perc_y":96.71,
+  "usage_perc_y":96.61,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

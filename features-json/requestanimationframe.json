@@ -391,7 +391,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -693,7 +694,7 @@
     "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
     "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame`."
   },
-  "usage_perc_y":96.68,
+  "usage_perc_y":96.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

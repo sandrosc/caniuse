@@ -1,6 +1,6 @@
 {
   "title":"CSS Text Box",
-  "description":"CSS `text-box` (and it\u2019s longhands `text-box-trim` & `text-box-edge`) provide the ability to trim extra space over/under text glyphs at the start/end of a block to match specific font-provided metrics. This allows for more precise alignment and positioning of text. ",
+  "description":"CSS `text-box` (and its longhands `text-box-trim` & `text-box-edge`) provide the ability to trim extra space over/under text glyphs at the start/end of a block to match specific font-provided metrics. This allows for more precise alignment and positioning of text. ",
   "spec":"https://w3c.github.io/csswg-drafts/css-inline-3/#propdef-leading-trim",
   "status":"wd",
   "links":[
@@ -381,7 +381,8 @@
       "138":"y",
       "139":"y",
       "140":"y",
-      "141":"y"
+      "141":"y",
+      "142":"y"
     },
     "safari":{
       "3.1":"n",
@@ -683,7 +684,7 @@
     "1":"Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings).",
     "2":"Can be enabled via the `#text-box-trim` flag in `chrome://flags`"
   },
-  "usage_perc_y":79.02,
+  "usage_perc_y":76.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
